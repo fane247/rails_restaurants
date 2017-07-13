@@ -21,7 +21,7 @@ body {
 
 }
 
-.restaurant-container {
+.restaurant-container-index {
 
 	border-style: solid;
 	border-width: 1px;
@@ -31,15 +31,37 @@ body {
 
 }
 
-
-
-.restaurant-info {
+.restaurant-info-index {
 	
 	margin-left: 10px;
 }
 
 
-img {
+
+.img-index {
 
 	height: 211px;
 }
+
+
+.restaurant-container-show {
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	display: inline-block;
+
+}
+
+.restaurant-info-show {
+	
+	margin-left: 10px;
+	display: inline-block;
+}
+
+.img-show {
+
+	display: inline-block;
+
+}
+
