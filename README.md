@@ -1,9 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+<!--Things you may want to cover:
 
 * Ruby version
 
@@ -22,3 +19,14 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+-->
+
+restuarant columns:
+
+* name
+* Address
+* rating - int
+* price - int out of 5
+* cuisine
+* review - long text
+* vegan friendly - bool

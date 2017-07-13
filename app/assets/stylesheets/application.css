@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+
+	/*background-color: teal*/
+
+}
+
+.restaurant-container {
+
+	border-style: solid;
+	border-width: 1px;
+	border-color: black;
+	width: 213px;
+	display: inline-block;
+
+}
+
+
+
+.restaurant-info {
+	
+	margin-left: 10px;
+}
+
+
+img {
+
+	height: 211px;
+}
